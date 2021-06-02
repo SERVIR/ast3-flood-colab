@@ -1,7 +1,7 @@
 # ast3-flood-colab
 This repo hosts submodules and glue code for SERVIR AST3 work on flood.
 
-To insure ownership of individual AST's work, the main pieces are managed via submodules (see [adding submodules section](#adding-submodules) for more information).
+To insure ownership of individual AST's work, the main pieces are managed via submodules (see [adding submodules section](#adding-submodules) for more information). Currently, this repo hosts the following AST submodules:
 
  * AST Lee: FIER processing
 
