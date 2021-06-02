@@ -1,0 +1,3 @@
+[submodule "fierpy"]
+	path = fierpy
+	url = https://github.com/servir/fierpy
