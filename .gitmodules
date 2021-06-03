@@ -1,3 +1,6 @@
 [submodule "fierpy"]
 	path = fierpy
 	url = https://github.com/servir/fierpy
+[submodule "fierapp"]
+	path = fierapp
+	url = https://github.com/BYU-Hydroinformatics/fierapp
