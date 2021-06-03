@@ -4,6 +4,7 @@ This repo hosts submodules and glue code for SERVIR AST3 work on flood.
 To insure ownership of individual AST's work, the main pieces are managed via submodules (see [adding submodules section](#adding-submodules) for more information). Currently, this repo hosts the following AST submodules:
 
  * AST Lee: FIER processing
+ * AST Nelson: Tethys application for displaying FIER results
 
 ## Adding Submodules
 
@@ -19,7 +20,7 @@ $ git submodule add <repo-address>
 
 This will create a subdirectory that doesn’t track its contents, instead, Git sees it as a particular commit from that repository.
 
-To clone this project will all code use the following command:
+To clone this project with all submodule code use the following command:
 
 ```bash
 $ git clone --recurse-submodules https://github.com/SERVIR/ast3-flood-colab
